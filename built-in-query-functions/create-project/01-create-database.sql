@@ -1,0 +1,4 @@
+CREATE DATABASE gym;
+
+
+-- DROP DATABASE gym;
